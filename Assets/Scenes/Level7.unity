@@ -1448,6 +1448,10 @@ PrefabInstance:
       propertyPath: mainCanv
       value: 
       objectReference: {fileID: 152182603}
+    - target: {fileID: 3891499715379435644, guid: 520e8b72fb0195e4ba2985c7a9de2d4f, type: 3}
+      propertyPath: sceneName
+      value: Level7
+      objectReference: {fileID: 0}
     - target: {fileID: 5405408239910808986, guid: 520e8b72fb0195e4ba2985c7a9de2d4f, type: 3}
       propertyPath: m_RootOrder
       value: 22
